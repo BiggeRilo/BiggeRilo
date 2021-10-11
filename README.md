@@ -5,13 +5,13 @@
 
 I'm Murilo from Brazil, I'm a Software Engineering student and I really enjoy learning new programming languages and frameworks like Spring Boot and Hibernate.
 
+
+
 ## Skills and Experience
-<div style = "display: inline_block"><br>
-<img alingn ="center" height="30" widht = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img alingn ="center" height="30" widht = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-<img alingn ="center" height="30" widht = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-<img alingn ="center" height="30" widht = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-</div>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ## What i've been doing
 * 🔭 I’m currently working on this github profile.
@@ -28,6 +28,8 @@ I'm Murilo from Brazil, I'm a Software Engineering student and I really enjoy le
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiggeRilo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiggeRilo&show_icons=true&theme=dracula)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=BiggeRilo&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Snake animation](https://github.com/BiggeRilo/BiggeRilo/blob/output/github-contribution-grid-snake.svg)
 
