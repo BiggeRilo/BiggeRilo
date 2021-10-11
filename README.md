@@ -32,7 +32,5 @@ I'm Murilo from Brazil, I'm a Software Engineering student and I really enjoy le
   <img align="center" width = '495' src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiggeRilo&layout=compact&theme=dracula"/>
 </a>
 
-![Snake animation](https://github.com/BiggeRilo/BiggeRilo/blob/output/github-contribution-grid-snake.svg)
-
 ##### You are visitor number
 ![](https://komarev.com/ghpvc/?username=BiggeRilo&color=ff69b4)
