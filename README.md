@@ -3,7 +3,7 @@
 ### Hi there 👋, I'm Murilo Benassi 
 #### Software Engineering Stundent 
 
-I'm Murilo from Brazil, I'm a Software Engineering student. I really enjoy learning new programming languages and frameworks like Spring Boot and Hibernate.
+I'm Murilo from Brazil, I'm a Software Engineering student and I really enjoy learning new programming languages and frameworks like Spring Boot and Hibernate.
 
 ## SKills and Experience
 * 💻 Java / Spring Boot / Hibernate / JDBC / Java Swing / C++ 
