@@ -24,9 +24,9 @@ I'm Murilo from Brazil, I'm a Software Engineering student and I really enjoy le
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BiggeRilo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/murilo-benassi-ramalho-62224720a//)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiggeRilo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiggeRilo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BiggeRilo&show_icons=true)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiggeRilo&show_icons=true&theme=dracula)
 
 ![GitHub metrics](https://metrics.lecoq.io/BiggeRilo)  
 
