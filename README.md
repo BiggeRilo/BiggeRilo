@@ -30,6 +30,5 @@ I'm Murilo from Brazil, I'm a Software Engineering student and I really enjoy le
 
 ![GitHub metrics](https://metrics.lecoq.io/BiggeRilo)  
 
-![Profile views](https://gpvc.arturio.dev/BiggeRilo)  
-
 ![Snake animation](https://github.com/BiggeRilo/BiggeRilo/blob/output/github-contribution-grid-snake.svg)
+![](https://komarev.com/ghpvc/?username=BiggeRilo&color=ff69b4)
