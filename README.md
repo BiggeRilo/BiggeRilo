@@ -29,4 +29,5 @@ I'm Murilo from Brazil, I'm a Software Engineering student and I really enjoy le
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiggeRilo&show_icons=true&theme=dracula)
 
 ![Snake animation](https://github.com/BiggeRilo/BiggeRilo/blob/output/github-contribution-grid-snake.svg)
+
 ![](https://komarev.com/ghpvc/?username=BiggeRilo&color=ff69b4)
