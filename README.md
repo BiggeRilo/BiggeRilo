@@ -32,4 +32,4 @@ I'm Murilo from Brazil, I'm a Software Engineering student and I really enjoy le
 
 ![Profile views](https://gpvc.arturio.dev/BiggeRilo)  
 
-![Snake animation](https://github.com/BiggeRilo)
+![Snake animation](https://github.com/rafaballerini/BiggeRilo/blob/output/github-contribution-grid-snake.svg)
