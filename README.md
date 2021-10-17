@@ -12,10 +12,13 @@ I'm Murilo from Brazil, I'm a Software Engineering student and I really enjoy le
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Flutter](ttps://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
 
 ## What i've been doing
 * 🔭 I’m currently working on this github profile.
-* 🌱 I’m currently learning Java.
+* 🌱 I’m currently learning Flutter/Kotlin.
 * 👯 I’m looking to collaborate on backend development.
 * 🤔 I’m looking for help with frontend development
 * 💬 Ask me about The void
