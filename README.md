@@ -18,7 +18,7 @@ I'm Murilo from Brazil, I'm a Software Engineering student and I really enjoy le
 
 ## What i've been doing
 * 🔭 I’m currently working on this github profile.
-* 🌱 I’m currently learning Flutter/Kotlin.
+* 🌱 I’m currently learning Flutter/Dart.
 * 👯 I’m looking to collaborate on backend development.
 * 🤔 I’m looking for help with frontend development
 * 💬 Ask me about The void
