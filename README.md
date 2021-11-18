@@ -1,7 +1,7 @@
 ![Software Engineering Stundent ](https://github.com/BiggeRilo/BiggeRilo/blob/main/Banner.png)
 
 ### Hi there 👋, I'm Murilo Benassi 
-#### Software Engineering Stundent 
+#### Software Engineering student and Mobile Developer
 
 I'm Murilo from Brazil, I'm a Software Engineering student and I really enjoy learning new programming languages and frameworks like Spring Boot and Hibernate.
 
